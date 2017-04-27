@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Hong's blog
+description: Hello :-)
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,10 +9,10 @@ baseurl: ''
 author:
   name: 'Hong Yeong Ju'
   email: hjp0819@gmail.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username: Yeong Ju 
-  linkedin_username:  joshgerdes
+  twitter_username: 
+  facebook_username: hjp0819@naver.com 
+  github_username: hjp0819 
+  linkedin_username:  
 
 defaults:
   -
