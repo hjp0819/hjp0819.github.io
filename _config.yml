@@ -2,17 +2,17 @@
 title: Hong's blog
 description: Hello :-)
 url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: ''
+baseurl: ' '
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Hong Yeong Ju'
   email: hjp0819@gmail.com
-  twitter_username: 
+  twitter_username: ''
   facebook_username: hjp0819@naver.com 
   github_username: hjp0819 
-  linkedin_username:  
+  linkedin_username: '' 
 
 defaults:
   -
